@@ -22,3 +22,5 @@ O projeto permite que o utilizador digite um nome de utilizador do GitHub e visu
 2.  **Interface Reativa:** Renderização automática de componentes baseada no retorno da API.
 3.  **Tratamento de Erros:** Mensagens personalizadas para utilizadores não encontrados ou falhas de ligação.
 4.  **Foco em Performance:** Carregamento rápido de imagens e dados via AJAX.
+
+* Link: https://gitanpf.github.io/exercicio_ajax/
